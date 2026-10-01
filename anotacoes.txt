@@ -1,2 +1,2 @@
-Bia é braba
+Bia = braba
 
